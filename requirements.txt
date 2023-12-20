@@ -1,0 +1,14 @@
+jupyter
+matplotlib
+itk>=5.2
+tqdm>=4.47.0
+pandas
+einops
+transformers<4.22
+mlflow>=1.28.0
+itkwidgets
+scikit-image>=0.14.2
+pillow
+tensorboard
+monai==1.2.0
+monailabel==0.7.0
